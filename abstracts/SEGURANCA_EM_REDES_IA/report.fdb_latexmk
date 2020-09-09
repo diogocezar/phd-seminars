@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1599663709 "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.tex" "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.pdf" "report" 1599663710
-  "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.aux" 1599663710 118 97fdcbbcf45ed93a6a94703b2ea18613 ""
-  "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.tex" 1599663709 5861 272af38a520c325d78ad58250c07c1e8 ""
+["pdflatex"] 1599667880 "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.tex" "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.pdf" "report" 1599667881
+  "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.aux" 1599667881 118 97fdcbbcf45ed93a6a94703b2ea18613 ""
+  "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.tex" 1599667880 5809 5d04bd4c6e3d3ae272f791f90eceb738 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1480098688 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -19,6 +19,7 @@
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1480098701 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1480098701 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1480098701 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1480098733 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1480098733 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb" 1480098746 45758 19968a0990191524e34e1994d4a31cb6 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1480098746 44729 811d6c62865936705a31c797a1d5dada ""
@@ -73,12 +74,12 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1544732100 4220281 d4474a244bf1b153d2b8959e8c005881 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "report.aux" 1599663710 118 97fdcbbcf45ed93a6a94703b2ea18613 ""
-  "report.tex" 1599663709 5861 272af38a520c325d78ad58250c07c1e8 ""
+  "report.aux" 1599667881 118 97fdcbbcf45ed93a6a94703b2ea18613 ""
+  "report.tex" 1599667880 5809 5d04bd4c6e3d3ae272f791f90eceb738 ""
   "sbc-template.sty" 1599602612 6074 ecc54df5124d8db4ac67c42cc728f3a5 ""
   (generated)
-  "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.log"
+  "report.pdf"
   "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.pdf"
   "report.log"
-  "report.pdf"
+  "/Users/diogocezar/phd/phd-seminars/abstracts/SEGURANCA_EM_REDES_IA/report.log"
   "report.aux"

@@ -8,7 +8,7 @@
 
 \sloppy
 
-\title{Segurança em Redes e Interligência Artificial Será que ``Dá Match'' - 17 de Agosto}
+\title{Segurança em Redes e Interligência Artificial Será que ``dá match''? - 8 de Setembro}
 
 \author{Diogo C. T. Batista\inst{1}}
 
@@ -41,37 +41,18 @@ Então destaca-se como a IA pode ser aplicada em segurança, mostrando que com a
 
 Segue-se então com alguns exemplos de onde estas técnicas já são aplicadas. O Google removeu 700 mil apps da playstore e 100 mil contas, utilizando aprendizagem de máquina para reconhecer padrões e detectar códigos maliciosos ou ocorrências que infringíssem os termos de uso da plataforma. Outro exemplo citado foi em relação a sistemas de detecção de intrusão, nos quais após um monitoramento da rede, um sistema extrai as informações que são a entrada para softwares que usam IA para responder se o que ocorreu é ou não um ataque. E por fim, os sistema de prevenção de intrusão, tem o mesmo comportamento dos sistemas de detecção, com a diferença que podem tomar uma ação automatizada com base nas informações inferidas.
 
-Mas estes métodos já são conhecidos e não necessáriamente precisam de IA para funcionar, pois podem entender uma anomalia pela deteção de assinaturas (características dos ataques). Por exemplo: Aumento de tráfego, pode configurar um ataque de DDOS. Desvio de fluxo
+Mas estes métodos, já conhecidos, não necessáriamente precisam de IA para funcionar. Podem encontrar uma anomalia pela deteção de assinaturas (características dos ataques). Por exemplo: Aumento de tráfego, pode configurar um ataque de DDOS. Desvio de fluxo pode caracterizar um ataque do tipo Man-in-the-middle.
 
+O grande problema são para ataques que nunca ocorreram. Para isso a proposta demonstrada, analisa o comportamento da rede. A principal dificuldade é extrair o que caracteriza um comportamento ``normal'' da rede. Essas características são altamente voláteis. Como por exemplo, o próprio crescimento de uma empresa imprime diferentes características de rede.
 
+A utilização de aprendizagem de máquina através do treinamento de classificados CNN foi uma abordagem demonstrada para identificar as características de tráfego consideradas normais, bem como na deteção de anomalias.
 
-% \end{itemize}
-% \item São sistemas antigos;
-% \item Funciona por uma forma de deteção por assinaturas (características dos ataques);
-% \begin{itemize}
-% 	\item Aumento de tráfego (DDOS);
-% 	\item Desvio de Fluxo (Man-in-the-middle);
-% 	\item Uso de portas;
-% 	\item Uso de payloads desconhecidos;
-% \end{itemize}
-% \item E se o ataque nunca aconteceu?
-% \begin{itemize}
-% 	\item Ao invés de caracterízar o ataque, analisa o comportamento da rede;
-% 	\item Complicações: Extrair comportamento ``normal'' da rede; E garantir que não conheram ataques; Características mudam com o tempo (Crescimento de uma empresa)
-% \end{itemize}
-% \item Redes Neurais Aplicados a Estes problemas
-% \begin{itemize}
-% 	\item Caracterização do trafego (normal)
-% 	\item Detecção de anomalias;
-% \end{itemize}
-% \item Defini-se protocolos para caracterização do tráfego;
-% \item Leituras em tempos discretizados;
-% \item Dado o que aconteceu nos utltimos n intervalores o que acontecerá no próximo intervalo t?
-% \item Se houver uma anomalia, o que fazer? (Outro sistema de aprendizado decide)
-% \item Vantagens: detectar ataques que são ou não conhecidos; é adaptável a cenários diferentes; se utilizado em um sistema de prevenção é capaz de interrompoer vulnerabilidades não conhecidas anteriormente;
-% \item Dá match: Com certeza, são aliadas que podem funcionar;
-% \item Problema: Da mesma forma que funciona para proteger, funciona para atacar;
+A proposta de trabalho tenta responder as perguntas: Dado o que aconteceu nos utltimos $n$ intervalores o que acontecerá no próximo intervalo $t$? Se uma anomalia for identificada, o que deve ser feito?
 
-% \end{itemize}
+Com isso é possível notar as vantagens na utilização de IA aliada a segurança de redes, pois é possível detectar ataques que são ou não conhecidos, além de ser adaptável a cenários diferentes. E se utilizado em um sistema de prevenção é capaz de interrompoer vulnerabilidades não conhecidas anteriormente.
+
+Termina-se com a resposta da pergunta: Segurança em Redes e Interligência Artificial, será que ``dá match''?
+
+Com certeza, são aliadas que podem funcionar, entretando, as mesmas técnicas de IA podem ser utilizadas para quem pretende realizar os ataques.
 
 \end{document}
