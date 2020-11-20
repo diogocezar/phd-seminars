@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.13)  20 NOV 2020 10:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.13)  20 NOV 2020 11:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -150,19 +150,19 @@ Package: listings 2015/06/04 1.6 (Carsten Heinz)
  (/Users/diogocezar/phd/phd-seminars/main/report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 22.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -256,16 +256,16 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \c@lstlisting=\count110
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 22.
+(Font)              <6> on input line 24.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 24.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) (/Users/diogocezar/phd/phd-seminars/main/content/0720.tex
@@ -274,13 +274,8 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2] (/Users/diogocezar/phd/phd-seminars/main/content/0724.tex
-Underfull \hbox (badness 1087) in paragraph at lines 18--19
-[]\OT1/ptm/m/n/12 Conhecimento como ``obra aberta'': em constru[][]ao cont[]^^Pnua, que busca a
- []
-
-
-Underfull \hbox (badness 1314) in paragraph at lines 18--19
-\OT1/ptm/m/n/12 ressignifica[][]ao, in-ter-fer[]encia, completa[][]ao, cocria[][]ao. A ideia []e evi-tar a
+Underfull \hbox (badness 1577) in paragraph at lines 18--19
+[]\OT1/ptm/m/n/12 Conhecimento como ``obra aberta'': busca a in-ter-fer[]encia, ressignifica[][]ao,
  []
 
 [3]) [4] (/Users/diogocezar/phd/phd-seminars/main/content/0727.tex
@@ -290,20 +285,28 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
- [5]) [6] (/Users/diogocezar/phd/phd-seminars/main/content/0803.tex [7]) [8] (/Users/diogocezar/phd/phd-seminars/main/content/0810A.tex [9]) [10] (/Users/diogocezar/phd/phd-seminars/main/content/0810B.tex [11]) [12] (/Users/diogocezar/phd/phd-seminars/main/content/0811.tex) [13] (/Users/diogocezar/phd/phd-seminars/main/content/0812.tex [14]) [15] (/Users/diogocezar/phd/phd-seminars/main/content/0813.tex) [16] [17] (/Users/diogocezar/phd/phd-seminars/main/content/0814.tex) [18] [19] (/Users/diogocezar/phd/phd-seminars/main/content/0817.tex [20]) [21] (/Users/diogocezar/phd/phd-seminars/main/content/0908.tex [22]) [23] (/Users/diogocezar/phd/phd-seminars/main/report.aux) ) 
+ [5]) [6] (/Users/diogocezar/phd/phd-seminars/main/content/0803.tex [7]
+Underfull \hbox (badness 1314) in paragraph at lines 25--26
+[]\OT1/ptm/m/n/12 Explora-se ainda uma pla-ta-forma co-nhe-cida como ``Open-De-sign'', na qual
+ []
+
+) [8] (/Users/diogocezar/phd/phd-seminars/main/content/0810A.tex [9]) [10] (/Users/diogocezar/phd/phd-seminars/main/content/0810B.tex [11]) [12] (/Users/diogocezar/phd/phd-seminars/main/content/0811.tex) [13] [14] (/Users/diogocezar/phd/phd-seminars/main/content/0812.tex [15]) [16] (/Users/diogocezar/phd/phd-seminars/main/content/0813.tex [17]) [18] (/Users/diogocezar/phd/phd-seminars/main/content/0814.tex [19]) [20] (/Users/diogocezar/phd/phd-seminars/main/content/0817.tex [21]) [22] (/Users/diogocezar/phd/phd-seminars/main/content/0908.tex [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]) [25] (/Users/diogocezar/phd/phd-seminars/main/report.aux) ) 
 Here is how much of TeX's memory you used:
  5733 strings out of 492649
  86106 string characters out of 6129621
- 168800 words of memory out of 5000000
+ 166815 words of memory out of 5000000
  9498 multiletter control sequences out of 15000+600000
  18144 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,8n,40p,1563b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/diogocezar/phd/phd-seminars/main/report.pdf (23 pages, 129999 bytes).
+Output written on /Users/diogocezar/phd/phd-seminars/main/report.pdf (25 pages, 129229 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
