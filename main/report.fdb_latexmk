@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1605894125 "/Users/diogocezar/phd/phd-seminars/main/report.tex" "/Users/diogocezar/phd/phd-seminars/main/report.pdf" "report" 1605894126
-  "/Users/diogocezar/phd/phd-seminars/main/report.aux" 1605894125 1648 bccc9f10dc0f29220650c06d93d334a3 ""
-  "/Users/diogocezar/phd/phd-seminars/main/report.tex" 1605894124 873 73a5e135894603786b412c5b39ee9f90 ""
+["pdflatex"] 1605906237 "/Users/diogocezar/phd/phd-seminars/main/report.tex" "/Users/diogocezar/phd/phd-seminars/main/report.pdf" "report" 1605906237
+  "/Users/diogocezar/phd/phd-seminars/main/report.aux" 1605906237 1648 e1b9a2310c4bc02d3e614652bc606acd ""
+  "/Users/diogocezar/phd/phd-seminars/main/report.tex" 1605906200 869 acd55f2b97ee4bc3b6316f0d28a85448 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1480098688 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -88,16 +88,16 @@
   "content/0810B.tex" 1605893934 2766 42a35ecf2c10a36d8ff9f8b70890f34c ""
   "content/0811.tex" 1605893889 1867 6e4dc51cf7dff40c560dd4e266e03aa3 ""
   "content/0812.tex" 1605894083 3246 ec23f70acfedf81b69e512dd8228e59c ""
-  "content/0813.tex" 1605877708 3639 ecfc2fa7d05374b222079041da99dca9 ""
-  "content/0814.tex" 1605877788 3527 5a2be23b089e17e9e42f04f08b1e7499 ""
+  "content/0813.tex" 1605905161 2195 78ec1818ea3db6c222a7825972ac1f3e ""
+  "content/0814.tex" 1605906235 2390 2721e896f5085faa6e59ee3a8304c403 ""
   "content/0817.tex" 1605876035 5027 cf2c068646916ec8ce695020f4c8699b ""
   "content/0908.tex" 1605876013 5677 f3992e11c4d8c40957648f8323db2461 ""
-  "report.aux" 1605894125 1648 bccc9f10dc0f29220650c06d93d334a3 ""
-  "report.tex" 1605894124 873 73a5e135894603786b412c5b39ee9f90 ""
+  "report.aux" 1605906237 1648 e1b9a2310c4bc02d3e614652bc606acd ""
+  "report.tex" 1605906200 869 acd55f2b97ee4bc3b6316f0d28a85448 ""
   "sbc-template.sty" 1605875050 6074 ecc54df5124d8db4ac67c42cc728f3a5 ""
   (generated)
-  "report.log"
   "/Users/diogocezar/phd/phd-seminars/main/report.log"
-  "report.aux"
   "/Users/diogocezar/phd/phd-seminars/main/report.pdf"
+  "report.log"
+  "report.aux"
   "report.pdf"
